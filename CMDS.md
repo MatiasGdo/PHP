@@ -29,3 +29,9 @@ git merge <rama> (Se usa para fusionar una rama con otra rama activa)
 
 git diff (Ver los conflictos presentes)
 
+
+Orden para guardar cambios:
+
+git add CMDS.md
+git commit -m "Añadidos comandos git"
+git push
